@@ -3,7 +3,7 @@
   "description":"a test package",
   "license":"MIT",
   "keywords":["compose","cyberfeipunk","cyberpunk"],
-  "version":"dev-master",
+  "version":"1.0.0",
   "authors":[
     {
        "name":"dingfei",
