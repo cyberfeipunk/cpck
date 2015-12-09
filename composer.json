@@ -1,0 +1,25 @@
+{
+  "name":"cyberfeipunk/cpck",
+  "description":"a test package",
+  "license":"MIT",
+  "keywords":["compose","cyberfeipunk","cyberpunk"],
+  "version":"1.0.0",
+  "authors":[
+    {
+       "name":"dingfei",
+       "email":"dingfei2201@163.com"
+     },
+     {
+       "name":"cyberfeipunk",
+       "email":"457286213@qq.com"
+     }
+   ],
+   "require":{
+     "php":">=5.3.0"
+   },
+   "authload":{
+     "psr-0"{
+       "Dingfei\\Cyberfeipunk\\cpck":"src"
+     }
+   }
+}
